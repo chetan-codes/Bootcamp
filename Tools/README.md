@@ -28,4 +28,9 @@
 | [Flame Graphs](https://www.brendangregg.com/flamegraphs.html) | visualization |
 
 
+## Verification
+| Tool | Scope |
+|---|---|
+| [Verilator](https://www.veripool.org/verilator/) | Verilog, System Verilog, C++ |
+
 
