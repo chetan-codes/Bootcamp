@@ -1,4 +1,5 @@
 # Secure hardware
+This folder is no longer maintained.
 
 ## Goal
 

@@ -1,1 +1,1 @@
-# Bootcamp on interested research directions
+# Bootcamp for Unary Lab
