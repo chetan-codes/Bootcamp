@@ -5,4 +5,4 @@
 2. [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 3. [How to research](https://www.sigarch.org/research-to-boldly-go-where-no-one-has-gone-before/)
 4. [How to write a literature review](https://www.cs.cmu.edu/~missy/WritingaLiteratureReview.doc)
-5. [How to present a paper (Matthew O. Jackson)](https://web.stanford.edu/~jacksonm/present.pdf)/[How to present a paper (Bob Spillman/Ian Parberry)](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf)
+5. [How to present a paper](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf)
